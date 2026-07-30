@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Freezyle - Roblox Systems Engineer and Frontend Developer, AlvaStudio Community">
+  <title>Freezyle — Roblox Systems Engineer / Frontend Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B12"/>
+      <stop offset="0.55" stop-color="#0A101C"/>
+      <stop offset="1" stop-color="#0D1626"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB245" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFB245" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFB245" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#162034" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="300" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace; }
+    .sans { font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .eyebrow { fill: #6F819C; font-size: 12px; letter-spacing: 3.4px; }
+    .title { fill: #E8EEF9; font-size: 66px; font-weight: 800; letter-spacing: -1px; }
+    .subtitle { fill: #AFC0D8; font-size: 19px; font-weight: 500; }
+    .tag { fill: #6F819C; font-size: 12.5px; letter-spacing: 1.6px; }
+    .panel-label { fill: #6F819C; font-size: 11px; letter-spacing: 2px; }
+    .metric { fill: #C7D5EA; font-size: 12px; }
+    .value { fill: #FFB245; font-size: 12px; }
+    .sweep { animation: sweep 5.2s cubic-bezier(.4,0,.2,1) infinite; }
+    .bar1 { animation: b1 3.6s ease-in-out infinite; }
+    .bar2 { animation: b2 4.4s ease-in-out infinite; }
+    .bar3 { animation: b3 5.1s ease-in-out infinite; }
+    .live { animation: live 1.8s ease-in-out infinite; }
+    @keyframes sweep { 0% { transform: translateX(-360px); } 100% { transform: translateX(1240px); } }
+    @keyframes b1 { 0%,100% { width: 168px; } 50% { width: 214px; } }
+    @keyframes b2 { 0%,100% { width: 122px; } 50% { width: 86px; } }
+    @keyframes b3 { 0%,100% { width: 196px; } 50% { width: 148px; } }
+    @keyframes live { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
+    @media (prefers-reduced-motion: reduce) {
+      .sweep, .bar1, .bar2, .bar3, .live { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)" opacity="0.55"/>
+    <rect class="sweep" x="0" y="0" width="360" height="300" fill="url(#sweep)" opacity="0.16"/>
+    <rect x="0" y="0" width="1200" height="2" fill="#FFB245" opacity="0.9"/>
+
+    <g class="sans">
+      <text class="mono eyebrow" x="64" y="86">ALVASTUDIO COMMUNITY</text>
+      <text class="title" x="62" y="164" textLength="352" lengthAdjust="spacingAndGlyphs">FREEZYLE</text>
+      <rect x="64" y="184" width="352" height="1" fill="#1C2740"/>
+      <text class="subtitle" x="64" y="216">Roblox Systems Engineer &#183; Frontend Developer</text>
+      <text class="mono tag" x="64" y="252">LUAU &#8226; TYPESCRIPT &#8226; REACT &#8226; NEXT.JS &#8226; NODE &#8226; ROJO</text>
+    </g>
+
+    <g transform="translate(768,54)">
+      <rect width="368" height="192" rx="10" fill="#0E1524" stroke="#1C2740"/>
+      <text class="mono panel-label" x="20" y="30">RUNTIME PROFILE</text>
+      <circle class="live" cx="338" cy="26" r="4" fill="#FFB245"/>
+      <text class="mono panel-label" x="300" y="30" text-anchor="end">LIVE</text>
+
+      <text class="mono metric" x="20" y="66">replication</text>
+      <rect x="120" y="56" width="228" height="10" rx="5" fill="#141F33"/>
+      <rect class="bar1" x="120" y="56" width="168" height="10" rx="5" fill="#FFB245" opacity="0.85"/>
+
+      <text class="mono metric" x="20" y="102">datastore</text>
+      <rect x="120" y="92" width="228" height="10" rx="5" fill="#141F33"/>
+      <rect class="bar2" x="120" y="92" width="122" height="10" rx="5" fill="#7FA6D8" opacity="0.85"/>
+
+      <text class="mono metric" x="20" y="138">ui / render</text>
+      <rect x="120" y="128" width="228" height="10" rx="5" fill="#141F33"/>
+      <rect class="bar3" x="120" y="128" width="196" height="10" rx="5" fill="#5F7EA8" opacity="0.85"/>
+
+      <rect x="20" y="158" width="328" height="1" fill="#1C2740"/>
+      <text class="mono panel-label" x="20" y="180">SERVER TICK 60HZ</text>
+      <text class="mono value" x="348" y="180" text-anchor="end">STABLE</text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="14" fill="none" stroke="#1C2740"/>
+  </g>
+</svg>
