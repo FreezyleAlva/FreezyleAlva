@@ -97,20 +97,20 @@ I run **AlvaStudio Community**, a Roblox development studio focused on system en
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FreezAlva&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&bg_color=00000000&title_color=FFB245&text_color=AFC0D8&icon_color=FFB245" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FreezAlva&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&bg_color=00000000&title_color=B4650A&text_color=33445E&icon_color=B4650A" />
-  <img alt="GitHub statistics" height="170" src="https://github-readme-stats.vercel.app/api?username=FreezAlva&show_icons=true&hide_border=true&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FreezyleAlva&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&bg_color=00000000&title_color=FFB245&text_color=AFC0D8&icon_color=FFB245" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FreezyleAlva&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&bg_color=00000000&title_color=B4650A&text_color=33445E&icon_color=B4650A" />
+  <img alt="GitHub statistics" height="170" src="https://github-readme-stats.vercel.app/api?username=FreezyleAlva&show_icons=true&hide_border=true&cache_seconds=86400" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FreezAlva&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=FFB245&text_color=AFC0D8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FreezAlva&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=B4650A&text_color=33445E" />
-  <img alt="Most used languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreezAlva&layout=compact&hide_border=true&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FreezyleAlva&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=FFB245&text_color=AFC0D8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FreezyleAlva&layout=compact&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=B4650A&text_color=33445E" />
+  <img alt="Most used languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreezyleAlva&layout=compact&hide_border=true&cache_seconds=86400" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FreezAlva&hide_border=true&background=00000000&stroke=1C2740&ring=FFB245&fire=FFB245&currStreakNum=E8EEF9&currStreakLabel=FFB245&sideNums=AFC0D8&sideLabels=AFC0D8&dates=6F819C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FreezAlva&hide_border=true&background=00000000&stroke=D6DEEA&ring=B4650A&fire=B4650A&currStreakNum=0A1120&currStreakLabel=B4650A&sideNums=33445E&sideLabels=33445E&dates=5A6A82" />
-  <img alt="Contribution streak" height="170" src="https://streak-stats.demolab.com?user=FreezAlva&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FreezyleAlva&hide_border=true&background=00000000&stroke=1C2740&ring=FFB245&fire=FFB245&currStreakNum=E8EEF9&currStreakLabel=FFB245&sideNums=AFC0D8&sideLabels=AFC0D8&dates=6F819C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FreezyleAlva&hide_border=true&background=00000000&stroke=D6DEEA&ring=B4650A&fire=B4650A&currStreakNum=0A1120&currStreakLabel=B4650A&sideNums=33445E&sideLabels=33445E&dates=5A6A82" />
+  <img alt="Contribution streak" height="170" src="https://streak-stats.demolab.com?user=FreezyleAlva&hide_border=true" />
 </picture>
 
 </div>
@@ -129,62 +129,12 @@ They are rendered by shared third-party services, not by GitHub. The public inst
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreezAlva/FreezAlva/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FreezAlva/FreezAlva/output/snake-light.svg" />
-  <img alt="Contribution graph rendered as a snake animation" src="https://raw.githubusercontent.com/FreezAlva/FreezAlva/output/snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreezyleAlva/FreezyleAlva/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FreezyleAlva/FreezyleAlva/output/snake-light.svg" />
+  <img alt="Contribution graph rendered as a snake animation" src="https://raw.githubusercontent.com/FreezyleAlva/FreezyleAlva/output/snake-dark.svg" width="100%" />
 </picture>
 
 </div>
-
-## Tic tac toe against the bot
-
-You play **X** and move first. Click a numbered cell — it opens a pre-filled issue, and submitting it runs the bot. The bot answers as **O**, rewrites the board below, replies in the issue and closes it. No account setup, no external service.
-
-<!-- TTT:START -->
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%201&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>1</code></a></td>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%202&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>2</code></a></td>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%203&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>3</code></a></td>
-    </tr>
-    <tr>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%204&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>4</code></a></td>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%205&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>5</code></a></td>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%206&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>6</code></a></td>
-    </tr>
-    <tr>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%207&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>7</code></a></td>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%208&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>8</code></a></td>
-      <td align="center" width="76" height="60"><a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20move%209&amp;body=Submit%20this%20issue%20to%20play%20the%20move.%20The%20bot%20replies%2C%20updates%20the%20board%20in%20the%20README%2C%20then%20closes%20the%20issue."><code>9</code></a></td>
-    </tr>
-  </table>
-
-<sub>Your turn — you are <b>X</b>, the bot answers as <b>O</b>. Click a number to submit your move.</sub>
-
-<sub>Wins 0 &#183; Losses 0 &#183; Draws 0 &#183; Moves 0 &#183; <a href="https://github.com/FreezAlva/FreezAlva/issues/new?title=game%2Fttt%3A%20reset&amp;body=Submit%20this%20issue%20to%20start%20a%20new%20board.">New board</a></sub>
-
-</div>
-<!-- TTT:END -->
-
-<details>
-<summary>How the bot is built</summary>
-
-<br>
-
-| Layer | Implementation |
-| --- | --- |
-| Input | An issue title is the command protocol: `game/ttt: move <1-9>` or `game/ttt: reset`. Anything else is rejected and the issue is closed without touching state. |
-| Trust boundary | The title and author are passed to the script as environment variables. They are never interpolated into a shell command, which is the standard injection hole in issue-triggered workflows. |
-| Engine | Minimax with alpha-beta pruning and depth-weighted scoring, so the bot takes the fastest win and the slowest loss. In `perfect` mode it is unbeatable; the profile runs `casual`, which plays optimally most of the time so a human can actually win. |
-| State | A single JSON file. Every turn is a pure transition: read state, apply move, write state. Nothing depends on the previous workflow run. |
-| Render | The board is regenerated between the two board markers in this file, then committed by the workflow. |
-| Concurrency | Turns are serialised through a workflow concurrency group, so two players clicking at the same second cannot corrupt the board. |
-
-Source: [`.github/scripts/game-bot.mjs`](./.github/scripts/game-bot.mjs) and [`.github/workflows/game-bot.yml`](./.github/workflows/game-bot.yml).
-
-</details>
 
 ## Contact
 
@@ -192,10 +142,22 @@ Source: [`.github/scripts/game-bot.mjs`](./.github/scripts/game-bot.mjs) and [`.
 | --- | --- |
 | Studio | [studio.alvacommunity.biz.id](https://studio.alvacommunity.biz.id) |
 | Roblox group | [AlvaStudio Community](https://www.roblox.com/groups/295556419) |
-| GitHub | [@FreezAlva](https://github.com/FreezAlva) |
+| GitHub | [@FreezyleAlva](https://github.com/FreezyleAlva) |
 
 Open to collaboration on Roblox system engineering, frontend architecture, dashboard platforms and developer tooling.
 
 <div align="center">
 <sub>Building scalable software and Roblox systems through clean architecture, measurable performance and code that survives maintenance.</sub>
+</div>
+
+## Arcade loop
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/arcade-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/arcade-light.svg" />
+  <img alt="Animated arcade loop with Pac-Man, space shooter, and racing game" src="./assets/arcade-dark.svg" width="100%" />
+</picture>
+
 </div>

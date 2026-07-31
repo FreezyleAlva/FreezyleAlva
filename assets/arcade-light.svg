@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Animated arcade loop with Pac-Man, a space shooter, and a racing game">
+  <title>AlvaStudio arcade loop — build, play, repeat</title>
+  <defs>
+    <linearGradient id="bgl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EDF2F8"/>
+    </linearGradient>
+    <pattern id="gridl" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#DCE4F0"/>
+    </pattern>
+    <filter id="glowl" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="framel"><rect width="1200" height="230" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace; }
+    .label { fill: #5A6A82; font-size: 10px; letter-spacing: 2.2px; }
+    .pacman { animation: pacman 8s linear infinite; }
+    .ghost { animation: ghost 8s linear 1.2s infinite; }
+    .ship { animation: ship 5.5s ease-in-out infinite; }
+    .bullet { animation: bullet 1.4s linear infinite; }
+    .car { animation: car 5.8s linear infinite; }
+    .road { animation: road 1.1s linear infinite; }
+    .blink { animation: blink 1.3s steps(2,end) infinite; }
+    @keyframes pacman { 0% { transform: translateX(-80px); } 100% { transform: translateX(1250px); } }
+    @keyframes ghost { 0% { transform: translateX(1260px); } 100% { transform: translateX(-100px); } }
+    @keyframes ship { 0%,100% { transform: translate(0,0); } 50% { transform: translate(0,-8px); } }
+    @keyframes bullet { 0% { transform: translateX(0); opacity: 0; } 15% { opacity: 1; } 100% { transform: translateX(1020px); opacity: 0; } }
+    @keyframes car { 0% { transform: translateX(-110px); } 100% { transform: translateX(1250px); } }
+    @keyframes road { 0% { transform: translateX(0); } 100% { transform: translateX(-96px); } }
+    @keyframes blink { 0%,45% { opacity: 1; } 46%,100% { opacity: .2; } }
+    @media (prefers-reduced-motion: reduce) {
+      .pacman, .ghost, .ship, .bullet, .car, .road, .blink { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#framel)">
+    <rect width="1200" height="230" fill="url(#bgl)"/>
+    <rect width="1200" height="230" fill="url(#gridl)" opacity=".8"/>
+    <rect width="1200" height="2" fill="#B4650A"/>
+    <text class="mono label" x="38" y="28">ALVASTUDIO ARCADE LOOP</text>
+    <text class="mono label" x="1162" y="28" text-anchor="end">BUILD / PLAY / REPEAT</text>
+
+    <path d="M36 67H1164M36 126H1164M36 190H1164" stroke="#C9D6E6" stroke-width="1"/>
+    <g fill="#B4650A" opacity=".55">
+      <circle cx="90" cy="67" r="2"/><circle cx="130" cy="67" r="2"/><circle cx="170" cy="67" r="2"/><circle cx="210" cy="67" r="2"/>
+      <circle cx="340" cy="67" r="2"/><circle cx="380" cy="67" r="2"/><circle cx="420" cy="67" r="2"/><circle cx="460" cy="67" r="2"/>
+      <circle cx="600" cy="67" r="2"/><circle cx="640" cy="67" r="2"/><circle cx="680" cy="67" r="2"/><circle cx="720" cy="67" r="2"/>
+      <circle cx="860" cy="67" r="2"/><circle cx="900" cy="67" r="2"/><circle cx="940" cy="67" r="2"/><circle cx="980" cy="67" r="2"/>
+    </g>
+
+    <g transform="translate(0,67)">
+      <g class="pacman" filter="url(#glowl)">
+        <path d="M0 -15A15 15 0 1 1 0 15L13 0Z" fill="#B4650A"/>
+        <circle cx="4" cy="-8" r="2" fill="#F4F7FB"/>
+      </g>
+    </g>
+    <g transform="translate(0,67)">
+      <g class="ghost">
+        <path d="M-15 14V-2A15 15 0 0 1 15-2V14L10 10L5 14L0 10L-5 14L-10 10Z" fill="#4A6E9E"/>
+        <circle cx="-6" cy="-1" r="3" fill="#F4F7FB"/><circle cx="6" cy="-1" r="3" fill="#F4F7FB"/>
+      </g>
+    </g>
+
+    <text class="mono label" x="38" y="103">SPACE / 02</text>
+    <g transform="translate(205,116)">
+      <g class="ship" filter="url(#glowl)">
+        <path d="M-18 10L0-14L18 10L8 7L0 14L-8 7Z" fill="#4A6E9E" stroke="#35699D"/>
+        <path d="M-7 13L-3 22L0 15L3 22L7 13" fill="none" stroke="#B4650A" stroke-width="3"/>
+        <circle cx="0" cy="-3" r="4" fill="#B4650A"/>
+      </g>
+    </g>
+    <g transform="translate(235,116)">
+      <g class="bullet">
+        <path d="M0 0H16" stroke="#B4650A" stroke-width="3" stroke-linecap="round"/>
+      </g>
+    </g>
+    <g fill="#4A6E9E" opacity=".7">
+      <path d="M540 108l5 9h10l-8 6 3 10-10-6-10 6 3-10-8-6h10z"/>
+      <path d="M760 108l5 9h10l-8 6 3 10-10-6-10 6 3-10-8-6h10z"/>
+      <path d="M1010 108l5 9h10l-8 6 3 10-10-6-10 6 3-10-8-6h10z"/>
+    </g>
+
+    <text class="mono label" x="38" y="167">RACE / 03</text>
+    <g class="road" opacity=".65">
+      <path d="M40 211H92M136 211H188M232 211H284M328 211H380M424 211H476M520 211H572M616 211H668M712 211H764M808 211H860M904 211H956M1000 211H1052M1096 211H1148" stroke="#4A6E9E" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(0,190)">
+      <g class="car" filter="url(#glowl)">
+        <path d="M0 12L12-4H42L54 12Z" fill="#B4650A"/>
+        <rect x="8" y="8" width="38" height="10" rx="3" fill="#B4650A"/>
+        <path d="M17-1h9v7h-14zm13 0h9l7 7H30z" fill="#DDE7F3"/>
+        <circle cx="14" cy="20" r="6" fill="#F4F7FB" stroke="#4A6E9E" stroke-width="2"/>
+        <circle cx="43" cy="20" r="6" fill="#F4F7FB" stroke="#4A6E9E" stroke-width="2"/>
+      </g>
+    </g>
+    <circle class="blink" cx="1140" cy="205" r="3" fill="#B4650A"/>
+    <rect x="0.5" y="0.5" width="1199" height="229" rx="14" fill="none" stroke="#C3D1E2"/>
+  </g>
+</svg>
