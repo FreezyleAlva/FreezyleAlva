@@ -7,7 +7,7 @@
 </picture>
 
 <a href="https://studio.alvacommunity.biz.id"><img alt="AlvaStudio Community" src="https://img.shields.io/badge/AlvaStudio-Community-FFB245?style=flat-square&labelColor=0A0F1A" /></a>
-<a href="https://www.roblox.com/groups/295556419"><img alt="Roblox group" src="https://img.shields.io/badge/Roblox%20Group-295556419-0A0F1A?style=flat-square&logo=roblox&logoColor=FFB245&labelColor=0A0F1A" /></a>
+<a href="https://www.roblox.com/share/g/47998708"><img alt="AlvaStudio Community Roblox group" src="https://img.shields.io/badge/Roblox%20Group-47998708-0A0F1A?style=flat-square&logo=roblox&logoColor=FFB245&labelColor=0A0F1A" /></a>
 <img alt="Focus" src="https://img.shields.io/badge/Focus-Systems%20Engineering-0A0F1A?style=flat-square&labelColor=0A0F1A" />
 <img alt="Open to collaboration" src="https://img.shields.io/badge/Status-Open%20to%20collaboration-0A0F1A?style=flat-square&labelColor=0A0F1A" />
 
@@ -141,7 +141,7 @@ They are rendered by shared third-party services, not by GitHub. The public inst
 | Channel | Link |
 | --- | --- |
 | Studio | [studio.alvacommunity.biz.id](https://studio.alvacommunity.biz.id) |
-| Roblox group | [AlvaStudio Community](https://www.roblox.com/groups/295556419) |
+| Roblox group | [AlvaStudio Community](https://www.roblox.com/share/g/47998708) |
 | GitHub | [@FreezyleAlva](https://github.com/FreezyleAlva) |
 
 Open to collaboration on Roblox system engineering, frontend architecture, dashboard platforms and developer tooling.
